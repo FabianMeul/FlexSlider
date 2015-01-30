@@ -3,7 +3,7 @@
   "version": "2.2.2",
   "description": "",
   "main": [
-    "jquery.flexslider-min.js",
+    "jquery.flexslider.js",
     "flexslider.css"
   ],
   "ignore": [
