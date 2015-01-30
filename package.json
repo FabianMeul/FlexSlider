@@ -1,0 +1,15 @@
+{
+  "name": "Flexslider",
+  "version": "2.2.2",
+  "main": [
+    "jquery.flexslider-min.js",
+    "flexslider.css"
+  ],
+  "ignore": [
+    "**/*.txt",
+    "README.mdown"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.7.0"
+  }
+}
