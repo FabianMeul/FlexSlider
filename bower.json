@@ -1,7 +1,7 @@
 {
   "name": "Flexslider",
   "version": "2.2.2",
-  "description": "JavaScript library for mobile-friendly interactive maps",
+  "description": "",
   "main": [
     "jquery.flexslider-min.js",
     "flexslider.css"
@@ -9,5 +9,5 @@
   "ignore": [
     "**/*.txt",
     "README.mdown"
-  ],
+  ]
 }
