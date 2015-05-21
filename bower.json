@@ -1,0 +1,12 @@
+{
+  "name": "flexslider",
+  "version": "2.4.0",
+  "main": [
+    "./jquery.flexslider-min.js",
+    "./flexslider.css"
+  ],
+  "ignore": [],
+  "dependencies": {
+    "jquery": "~2"
+  }
+}
